@@ -1,11 +1,12 @@
-### Hi I'm Kelly L 👋
+### Hi I'm Kelly L 👋 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=cliukelly&label=Profile%20views&color=0e75b6&style=flat" alt="cliukelly" /> </p>
 
 - 🔭 I’m currently learning **ML, GenAI, and cloud services (AWS, Azure, Databricks)**
 - 🌱 I’m currently studying at McGill in **Master of Management in Analytics**
 - 👯 I’m looking to collaborate on Data Science, solution architecture, and Data governance projects
 - 📫 How to reach me: email chengyan.liu@mail.mcgill.ca or connect me on LinkedIn
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cliukelly&label=Profile%20views&color=0e75b6&style=flat" alt="cliukelly" /> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
