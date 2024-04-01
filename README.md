@@ -1,6 +1,6 @@
 ### Hi I'm Kelly L 👋 
 
-- 🔭 I’m currently learning **ML, GenAI, and cloud services (AWS, Azure, Databricks)**
+- 🔭 I’m currently learning **ML, GenAI, and cloud services (Azure, AWS, Databricks)**
 - 🌱 I’m currently studying at McGill in **Master of Management in Analytics**
 - 👯 I’m looking to collaborate on **Data Science, solution architecture, and Data governance projects**
 - 📫 How to reach me: email chengyan.liu@mail.mcgill.ca or connect me on LinkedIn
