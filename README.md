@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently learning **ML, GenAI, and cloud services (Azure, AWS, Databricks)**
 - 🌱 I’m currently studying at McGill in **Master of Management in Analytics**
-- 👯 I’m looking to collaborate on **Data Science, solution architecture, and Data governance projects**
+- 👯 I’m looking to collaborate on **Data Science, Solution Architecture, and Data Governance Projects**
 - 📫 How to reach me: email chengyan.liu@mail.mcgill.ca or connect me on LinkedIn
 
 <h3 align="left">Connect with me:</h3>
