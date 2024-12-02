@@ -4,7 +4,7 @@
 - 🌱 I’m currently studying at McGill in **Master of Management in Analytics**
 - 👯 I’m looking to collaborate on **Data Science, Solution Architecture, and Data Governance Projects**
 - 📫 How to reach me: email chengyan.liu@mail.mcgill.ca or connect me on LinkedIn
-- Check out my portfolio webiste:  <a href="https://cliukelly.github.io/" target="blank"></a>
+- Check out my portfolio webiste: https://cliukelly.github.io/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
