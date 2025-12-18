@@ -46,26 +46,6 @@
 
 ---
 
-## 📂 Featured Projects  
-
-> A few projects that represent how I think about AI, data, and architecture.
-
-- 🧾 **[Project Name – GenAI Assistant for X](https://github.com/cliukelly/REPO)**  
-  Short 1–2 line description focusing on **business problem**, **approach**, and **stack**.  
-  _Example: Azure OpenAI + vector search + streamlit front-end_
-
-- ⚡ **[Project Name – End-to-End Analytics Pipeline](https://github.com/cliukelly/REPO)**  
-  Short 1–2 line description.  
-  _Example: Ingestion → transformation (Databricks) → ML model → dashboard_
-
-- 🧱 **[Project Name – Data Governance / Quality Framework](https://github.com/cliukelly/REPO)**  
-  Short 1–2 line description.  
-  _Example: Data quality checks, lineage, and documentation approach_
-
-> Replace the placeholders with real projects and keep each description **short and impact-focused**.
-
----
-
 ## 🛠️ Tech Stack  
 
 I work across data, ML, and cloud — with a strong focus on production-ready solutions.
