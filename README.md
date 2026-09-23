@@ -1,144 +1,90 @@
-<!-- Optional banner (replace with your own image URL if you have one) -->
-<!-- <p align="center">
-  <img src="BANNER_IMAGE_URL" alt="Kelly L | AI & Analytics" />
-</p> -->
-
-<h1 align="center">Hi, I'm Kelly 👋</h1>
+<h1 align="center">Hi, I'm Kelly Liu 👋</h1>
 
 <p align="center">
-  <b>AI Solution Partner @ Schneider Electric</b> • <b>Master of Management in Analytics @ McGill</b>  
+  <b>Data Scientist · AI Builder · Analytics Translator</b>
 </p>
 
 <p align="center">
-  Turning data, cloud, and GenAI into practical, reliable solutions.
+  I build practical AI and data products that connect models, software, and real business problems.
+</p>
+
+<p align="center">
+  <a href="https://cliukelly.github.io/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/kelly-chengyan-liu/">LinkedIn</a> ·
+  <a href="mailto:chengyanliudp@gmail.com">Email</a>
 </p>
 
 ---
 
-## 🧠 About Me  
+## About me
 
-- 💼 **Current Role:** AI Solution Partner at **Schneider Electric**  
-- 🎓 **Background:** Master of Management in Analytics, **McGill University**  
-- 🤖 **What I Do:**  
-  - Design and validate **AI & GenAI solutions** for real business use cases  
-  - Bridge **technical teams, stakeholders, and cloud platforms**  
-  - Focus on **reliability, governance, and value** — not just flashy demos  
-- ☁️ **Platforms I Use:** Azure, AWS, Databricks  
-- 🧩 **Interests:**  
-  - Retrieval-Augmented Generation (RAG) and LLM-based assistants  
-  - End-to-end analytics pipelines (data ingestion → modeling → deployment)  
-  - Data governance and responsible AI  
+I'm currently working on applied AI and data science at **Schneider Electric**, with a focus on turning messy real-world problems into usable systems.
 
-🌐 **Portfolio:** [cliukelly.github.io](https://cliukelly.github.io/)  
+My work tends to live at the intersection of:
 
-📫 **How to Reach Me:**  
-- Email: **chengyan.liu@mail.mcgill.ca**  
-- LinkedIn: [kelly-chengyan-liu](https://www.linkedin.com/in/kelly-chengyan-liu/)
+- **Machine learning & forecasting** — feature engineering, model evaluation, explainability, and productionization
+- **GenAI applications** — RAG, agents, structured knowledge, evaluation, and LLMOps
+- **Data & cloud architecture** — connecting data pipelines, models, APIs, and user-facing applications
+- **Rapid prototyping** — using AI-assisted development to move from idea → experiment → working product quickly
+
+I have a **Master of Management in Analytics from McGill University** and a software engineering background, so I enjoy moving between modeling, backend logic, data architecture, and product experience.
 
 ---
 
-## 🚀 What I’m Working On  
+## Featured project
 
-- Building **GenAI-powered assistants** for analytics and decision support  
-- Experimenting with **LLMOps patterns** (prompting, evaluation, monitoring)  
-- Prototyping **cloud-native data & AI architectures** on Azure/AWS  
-- Exploring ways to make **AI solutions more explainable and governed**  
+### 🦵 [Knee Lab](https://github.com/CLIUKELLY/knee-lab)
 
----
+An interactive browser-based exploration of knee anatomy built with **React, Three.js, and React Three Fiber**.
 
-## 🛠️ Tech Stack  
+It combines a 3D anatomical model with procedural ligaments, tendons, and muscle structures to make knee movement easier to explore visually.
 
-I work across data, ML, and cloud — with a strong focus on production-ready solutions.
+**Why I built it:** to experiment with how AI-assisted development can turn a personal question into an interactive learning tool.
 
-### ☁️ Cloud & Data Platforms  
-
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/>
-  </a>
-  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-  </a>
-  <a href="https://www.databricks.com/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" alt="Databricks" width="40" height="40"/>
-  </a>
-</p>
-
-### 🤖 Data & Machine Learning  
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-</p>
-
-### 🗄️ Databases  
-
-<p align="left">
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-</p>
-
-### 💻 Programming & Web (Past & Present)  
-
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-</p>
+→ [View the repository](https://github.com/CLIUKELLY/knee-lab)
 
 ---
 
-## 🌍 Connect With Me  
+## What I'm exploring
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kelly-chengyan-liu/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kelly Chengyan Liu | LinkedIn" height="30" width="40" />
-  </a>
-</p>
+- Better ways to combine **structured data, knowledge graphs, and document RAG**
+- Production patterns for **ML forecasting and model serving**
+- Faster, more reliable **AI-assisted software development**
+- Interactive data and science experiences on the web
+- Small product experiments that can be shipped, tested, and improved quickly
 
 ---
 
-## 📊 GitHub Stats  
+## Toolbox
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=cliukelly&label=Profile%20views&color=0e75b6&style=flat" alt="cliukelly profile views" />
+**Data & ML**  
+Python · SQL · Pandas · scikit-learn · XGBoost · Time Series · Feature Engineering
+
+**AI**  
+LLM Applications · RAG · Agents · Prompt & Evaluation Design · Knowledge Graphs
+
+**Cloud & Data**  
+AWS · Azure · Databricks · PostgreSQL · APIs · Data Pipelines
+
+**Product & Web**  
+JavaScript · React · Three.js · HTML/CSS · GitHub Actions
+
+---
+
+## Selected work
+
+- 🦵 **[Knee Lab](https://github.com/CLIUKELLY/knee-lab)** — interactive 3D knee anatomy explorer
+- 🌐 **[Personal Portfolio](https://cliukelly.github.io/)** — selected projects and background
+- ☕ **[Starbucks Customer Analysis](https://github.com/CLIUKELLY/Starbucks-Customer-Analysis)** — customer analytics project
+- 🚗 **[Automobile Risk Analysis](https://github.com/CLIUKELLY/Automobile-Risk-Analysis)** — applied analytics / modeling project
+- 💬 **[Gymmie Chatbot](https://github.com/CLIUKELLY/Gymmie-Chatbot)** — conversational AI experiment
+
+---
+
+<p align="center">
+  <i>I like projects where data becomes something you can actually use, inspect, question, or play with.</i>
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cliukelly&show_icons=true&locale=en&layout=compact" alt="cliukelly top languages" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cliukelly&label=Profile%20views&color=0e75b6&style=flat" alt="CLIUKELLY profile views" />
 </p>
